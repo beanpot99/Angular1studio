@@ -1,0 +1,33 @@
+.box {
+    display: flex;
+    padding: 10px;
+    gap:200px;
+    justify-content: center;
+ }
+ .crew{
+     outline:2px solid  #d4a422;
+     outline-offset: 10px;
+     background-color: #f7e9c1;
+     font-size: 24px;
+     font-family:Georgia, 'Times New Roman', Times, serif
+ }
+ .equipment{
+    outline:2px solid  #d4a422;
+    outline-offset: 10px;
+    background-color: #f7e9c1;
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+ }
+ .experiments{
+    outline:2px solid  #d4a422;
+    outline-offset: 10px;
+    background-color: #f7e9c1;
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+ }
+ body{
+     background-image: url('https://www.onlygfx.com/wp-content/uploads/2021/02/psychedelic-groovy-background-in-vivid-colors-4.jpg');
+ }
+ header{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
